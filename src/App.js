@@ -1,8 +1,7 @@
-
-
+import { FirstPage } from "./Components/FirstPage";
 function App() {
   return (
-    <div> App Component </div>
+    <FirstPage />
   );
 }
 
